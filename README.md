@@ -2,4 +2,4 @@
 
 :seedling: I'm a student in Computational linguistics.
 
-:books: I'm very interested in machine translation and language learning applications of NLP. 
+:books: I'm especially interested in machine translation.
