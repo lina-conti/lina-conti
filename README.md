@@ -1,5 +1,3 @@
 👋 Hello, I’m @lina-conti
 
-:seedling: I'm a student in Computational linguistics.
-
-:books: I'm especially interested in machine translation and ethics in NLP.
+:seedling: I'm a PhD student at Fondazione Bruno Kessler in Italy. I work on the interpretability and fairness of multilingual speech technologies.
